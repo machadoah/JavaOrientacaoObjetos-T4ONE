@@ -1,0 +1,9 @@
+package RecursosHumanos.Funcionarios;
+
+public class Designer extends Funcionario {
+
+	public double getBonificacao() {
+		return 200;
+	}
+
+}

@@ -1,0 +1,14 @@
+package RecursosHumanos.Testes;
+
+import RecursosHumanos.Funcionarios.*;
+import RecursosHumanos.Funcionarios.Abstratos.*;
+
+public class InterfaceTeste {
+
+	public static void main(String[] args) {
+		
+		Gerente
+
+	}
+
+}

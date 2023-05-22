@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ByteBankHerdado.Gerente"/>
+    <fullyQualifiedTypeName name="ByteBankHerdado.ControleBonificacao"/>
+    <fullyQualifiedTypeName name="ByteBankHerdado.Funcionario"/>
+    <fullyQualifiedTypeName name="ByteBankHerdado.EditorVideo"/>
+    <fullyQualifiedTypeName name="ByteBankHerdado.RecursosHumanos.Designer"/>
+    <fullyQualifiedTypeName name="ByteBankHerdado.ControleBonificacaoUpdate"/>
+    <fullyQualifiedTypeName name="ByteBankHerdadoContas.Cliente"/>
+    <fullyQualifiedTypeName name="ByteBankHerdadoContas.TiposContas.ContaCorrente"/>
+    <fullyQualifiedTypeName name="ByteBankHerdadoContas.TiposContas.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="ByteBank.Classes.Gerente"/>
+    <fullyQualifiedTypeName name="ByteBank.Classes.Funcionario"/>
+    <fullyQualifiedTypeName name="ByteBank.ControleBonificacao.ControleBonificacao"/>
+    <fullyQualifiedTypeName name="ByteBank.Classes.EditorVideo"/>
+    <fullyQualifiedTypeName name="ByteBank.Classes.Designer"/>
+    <fullyQualifiedTypeName name="ByteBank.Conta"/>
+    <fullyQualifiedTypeName name="RecursosHumanos.Sistema.SistemaInterno"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="RecursosHumanos.Funcionarios.Abstratos.Autenticavel"/>
+    <fullyQualifiedTypeName name="RecursosHumanos.Funcionarios.Gerente"/>
+    <fullyQualifiedTypeName name="RecursosHumanos.Cliente"/>
+    <fullyQualifiedTypeName name="RecursosHumanos.Funcionarios.Administrador"/>
+</qualifiedTypeNameHistroy>

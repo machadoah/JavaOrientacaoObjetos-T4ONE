@@ -1,0 +1,17 @@
+package RecursosHumanos.Testes;
+
+import RecursosHumanos.*;
+import RecursosHumanos.Funcionarios.*;
+import RecursosHumanos.Funcionarios.Abstratos.*;
+
+public class InterfaceTeste {
+
+	public static void main(String[] args) {
+		
+		Autenticavel g = new Cliente();
+		
+		
+
+	}
+
+}

@@ -1,0 +1,9 @@
+- Classes abstratas "abstract"
+
+	é como o cargo. Ninguem é em uma empresa apenas Funcionario.
+
+	A pessoa possui algum cargo, funcionario é uma posição e não o cargo.
+	
+- Métodos abstratos
+
+	Método sem corpo implementado na superclasse!

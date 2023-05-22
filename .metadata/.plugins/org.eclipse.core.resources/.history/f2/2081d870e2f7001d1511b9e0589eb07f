@@ -1,0 +1,14 @@
+Herença com Java!
+
+1 - Reutilização de código
+	Quando de 'extends' uma classe se herda as responsabilidades daquela classe herdada
+
+2 - Polimorfismo
+	
+	Sendo Gerente e Editor de Video: 
+	
+	Gerente g = new Gerente();
+	EditorVideo ev = new EditorVideo();
+	
+	Podemos usar como refencia Funcionario em métodos.
+

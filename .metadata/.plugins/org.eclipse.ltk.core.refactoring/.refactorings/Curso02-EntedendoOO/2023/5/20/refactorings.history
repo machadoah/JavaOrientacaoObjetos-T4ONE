@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ByteBank_01_IniciandoOO&apos; to &apos;ByteBank&apos;&#x0D;&#x0A;- Original project: &apos;Curso02-EntedendoOO&apos;&#x0D;&#x0A;- Original element: &apos;Curso02-EntedendoOO/src/ByteBank_01_IniciandoOO&apos;&#x0D;&#x0A;- Renamed element: &apos;Curso02-EntedendoOO/src/ByteBank&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ByteBank_01_IniciandoOO&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ByteBank_01_IniciandoOO" name="ByteBank" qualified="false" references="true" stamp="1684101065586" textual="false" version="1.0"/>
+</session>

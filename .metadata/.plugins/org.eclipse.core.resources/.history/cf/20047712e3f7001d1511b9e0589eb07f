@@ -1,0 +1,6 @@
+package ByteBankHerdadoContas.TiposContas;
+
+public class ContaCorrente extends Conta {
+	
+
+}

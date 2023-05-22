@@ -1,0 +1,5 @@
+package ByteBankHerdadoContas.TiposContas;
+
+public class Conta {
+
+}

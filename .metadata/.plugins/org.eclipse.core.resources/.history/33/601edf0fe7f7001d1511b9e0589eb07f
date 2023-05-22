@@ -1,0 +1,15 @@
+package ByteBankHerdadoContas.TiposContas;
+
+public class ContaCorrente extends Conta {
+
+	public ContaCorrente(int agencia, int numero) {
+		super(agencia, numero); // Esta chamando o contrutor especifico!
+	}
+	
+	@Override // Estou reescrevendo um método
+	public boolean saca(double valor) {
+		// TODO Auto-generated method stub
+		return super.saca(valor);
+	}
+
+}

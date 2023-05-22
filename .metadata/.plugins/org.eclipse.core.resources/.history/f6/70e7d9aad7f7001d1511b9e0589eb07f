@@ -1,0 +1,16 @@
+package ByteBankHerdado;
+
+public class ReferenciasTeste {
+
+	public static void main(String[] args) {
+		
+		Gerente g1 = new Gerente();
+		
+		g1.setNome("Genivaldo");
+		String nome = g1.getNome();
+		
+		System.out.println("O gerente se chama " + nome);
+
+	}
+
+}

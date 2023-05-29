@@ -1,0 +1,14 @@
+Checked & Unchecked
+-------------------
+
+Existem excecoes CHECKED e UNCHECKED!
+
+CHECKED que herdam de diretamente de Exception, são verificadas pelo compilador!
+
+- Necessitando de assinatura: 
+
+'throws JavinhaException'
+
+- ou, de try catch.
+
+UNCHECKED que herdam de RuntimeException, não são verificadas pelo compilador!

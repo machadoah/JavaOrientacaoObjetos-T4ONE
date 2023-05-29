@@ -1,0 +1,13 @@
+Interface é uma classe abstrata com todos os métodos abstratos. 
+
+- Solução pura de polimorfismo!
+
+É semelhante a um contrato! Onde há metodos abstratos que devem ser implementados!
+
+"implements"
+
+-------------------------------------------------------
+
+Composição:
+
+Reutilização de código em interfaces!

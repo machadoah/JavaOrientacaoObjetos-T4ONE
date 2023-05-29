@@ -20,6 +20,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684776025777</updated>
       <workItem from="1684776027645" duration="169000" />
+      <workItem from="1684776305688" duration="270000" />
     </task>
     <servers />
   </component>

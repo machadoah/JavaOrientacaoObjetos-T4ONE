@@ -1,9 +1,0 @@
-package ByteBank.Testes;
-
-import ByteBank.Classes;
-
-public class ReferenciasTeste {
-	
-	Gerente gerente = new Gerente();
-
-}

@@ -1,5 +1,0 @@
-package RecursosHumanos.Funcionarios.Abstratos;
-
-public interface Autenticavel {
-
-}

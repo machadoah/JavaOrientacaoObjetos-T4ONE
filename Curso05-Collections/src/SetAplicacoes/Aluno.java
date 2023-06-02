@@ -8,7 +8,9 @@ public class Aluno {
 	// private Set<Aluno> alunos = new HashSet<>();
 
 	public Aluno(String nome, int numeroMatricula) {
-		super();
+		if (nome == null) {
+			throw new NullPointerException("Nome nao pode ser null!");
+		}
 		this.nome = nome;
 		this.numeroMatricula = numeroMatricula;
 	}
@@ -19,6 +21,19 @@ public class Aluno {
 
 	public int getNumeroMatricula() {
 		return numeroMatricula;
+	}
+	
+	// 7. Equal e HashCode
+	
+	@Override
+	public boolean equals(Object obj) {
+		Aluno aluno = (Aluno) obj;
+		return this.nome.equals(aluno.nome);
+	}
+	
+	@Override
+	public int hashCode() {
+		return this.nome.hashCode();
 	}
 
 	@Override
